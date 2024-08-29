@@ -1,1 +1,2 @@
 # OIB-SIB_TAsk-2
+Customer segmentation is the process of dividing a customer base into distinct groups based on various characteristics or behaviors. This approach allows businesses to tailor their marketing strategies, products, and services to meet the specific needs and preferences of different customer segments. The goal is to enhance customer satisfaction and drive more effective marketing efforts, ultimately leading to increased sales and customer loyalty.
